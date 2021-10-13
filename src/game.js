@@ -1,4 +1,4 @@
-import character from '../Domain/domain'
+import character from './domain'
 
 export class Game {
     start() {
